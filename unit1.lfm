@@ -1,0 +1,12 @@
+object Form1: TForm1
+  Left = 613
+  Height = 240
+  Top = 163
+  Width = 320
+  Caption = 'Form1'
+  DesignTimePPI = 144
+  LCLVersion = '4.0.0.4'
+  OnCreate = FormCreate
+  OnKeyDown = FormKeyDown
+  OnPaint = FormPaint
+end
